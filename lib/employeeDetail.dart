@@ -161,12 +161,13 @@ class _EmployeeDetailState extends State<EmployeeDetail> {
       ),
       body: loading ? Center (
         child: new Image(image: new AssetImage("assets/loading.gif"), height: 60)
-      ) : Container(
-        child: Column(children: <Widget>[
+      ) : ListView(
+        padding: EdgeInsets.zero,
+        children: <Widget>[
           profileImage,
           email,
           job,
-        ],)
+        ],
       ),
       backgroundColor: Colors.white,
     );
