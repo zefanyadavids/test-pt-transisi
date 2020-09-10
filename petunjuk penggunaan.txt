@@ -1,0 +1,19 @@
+how to install?
+cara menginstal aplikasi ini dengan klik "file apk-release.apk" pada root repository. Tetap install anyway jika ada warning.
+
+how to login?
+pilih email berikut untuk login :
+- george.bluth@reqres.in
+- janet.weaver@reqres.in
+- emma.wong@reqres.in
+- eve.holt@reqres.i
+- charles.morris@reqres.in
+- tracey.ramos@reqres.in
+password : (input apapun)
+
+terimakasih
+
+Pelamar,
+Zefanya David Santoso
+
+
